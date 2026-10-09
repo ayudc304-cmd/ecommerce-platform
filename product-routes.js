@@ -1,1 +1,1 @@
-// product model
+// product routes
